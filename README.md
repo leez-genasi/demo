@@ -1,7 +1,7 @@
 # Shiki Coffee
-A responsive website for **Shiki Coffee**, a student-founded coffee shop built around quality, sustainability, and community. This project turns a product idea into a functional front-end web app, built as a demo for a front-end design interview.
+A responsive website for **Shiki Coffee**, a student-founded coffee shop built around quality, sustainability, and community. This project turns a product idea into a functional front-end web app.
 
-> **Note:** This project is not hosted live. Run it locally using the steps below.
+> **A personal note:** Shiki Coffee is a home-cafe run by my friend, and I adapted the brand (with permission) for a module project. 
 
 ## Purpose
 Students need a quick way to learn about the café, see what is on offer, and find out how to visit. The site aims to be:
